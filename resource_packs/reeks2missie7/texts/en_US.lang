@@ -1,0 +1,98 @@
+message.level1.name=Level 1
+message.level1.started=Level 1 is gestart!
+message.level1.complete=Level 1 is compleet!
+message.level1.make=Maak Level 1
+
+message.level2.name=Level 2
+message.level2.started=Level 2 is gestart!
+message.level2.complete=Level 2 is compleet!
+message.level2.make=Maak Level 2
+
+message.level3.name=Level 3
+message.level3.started=Level 3 is gestart!
+message.level3.complete=Ga naar het leerplatform.
+message.level3.make=Maak Level 3
+
+message.level_extra1.name=Extra level 1
+message.level_extra1.started=Extra level 1 is gestart!
+message.level_extra1.complete=Extra level 1 is compleet!
+message.level_extra1.make=Maak Extra level 1
+
+message.level_extra2.name=Extra level 2
+message.level_extra2.started=Extra level 2 is gestart!
+message.level_extra2.complete=Extra level 2 is compleet!
+message.level_extra2.make=Maak Extra level 2
+
+message.trail.follow=Volg het lichtspoor
+
+message.levels.completed=Je hebt alle levels voltooit!
+
+message.level.incorrect=§cIncorrect!§b
+message.level.incorrect.subtext=Probeer opnieuw!
+
+tile.cc:poor_dirt.name=Poor Dirt
+
+
+##npc names
+npc.name.help=Help
+npc.name.suki=§2Suki
+npc.name.bilal=§6Bilal
+npc.name.ramses=§dRacer Ramses
+npc.name.chanel=§9Chemicus Chanel
+npc.name.paul=§7Paul
+npc.name.farah=§5Farah
+npc.name.turt=§aTurt
+npc.name.mo=§4Mo
+npc.name.al=Al
+
+button.thanks=Bedankt!
+button.close=Sluit
+button.ok=Ok
+button.hello=Hallo
+button.noprob=Geen Probleem!
+button.letsgo=Lets Go!
+button.good=Goed!
+button.wow=Wow!
+
+message.talkto.ramses=Praat met §dRacer Ramses
+message.talkto.chanel=Praat met §9Chemicus Chanel
+
+ramses.greeting.1.text=Je bent aangekomen op de Jungleplaneet. Een prachtige planeet met veel problemen.
+ramses.greeting.1.button=Welke dan?
+
+ramses.greeting.2.text=Grote bedrijven proberen zo veel mogelijk bomen in het regenwoud te kappen voor de productie van katoen, soja voor veevoeder en palmolie.
+ramses.greeting.2.button=wat kan ik doen?
+
+ramses.greeting.3.text=Volg het lichtspoor naar §9Chemicus Chanel§0. Zij zal jou uitleggen wat je kan doen! 
+
+chanel.greeting.1.text=Het regenwoud is enorm belangrijk voor de aarde. Daarom moeten we proberen om zoveel mogelijk bomen terug te planten.
+chanel.greeting.1.button=Ok doen we!
+
+chanel.greeting.2.text=Bij de eerste oefening ga je bomen planten op mycelium blokken (de paars-grijze blokken) OF grasblokken.
+
+chanel.level1.text=Goed gedaan! Het eerste level is compleet. Plant nu enkel een boom wanneer de Agent op Myceleen staat EN naast water.
+chanel.level1.button=lets go!
+
+chanel.level2.text=Waaaw! Level 2 heb je ook kunnen oplossen! Bij level 3 moet je een boom plante als de Agent op een grasblok staat EN NIET dichtbij vuur staat.
+chanel.level2.button=Ik doe mijn best!
+
+chanel.level3.1.text=Yes, je hebt alle levels kunnen volbrengen! Goed gedaan! Bossen houden onze aarde gezond; ze leveren voedsel, schoon water, medicijnen en ze beschermen ons als een groen schild tegen klimaatverandering. En jij hebt ervoor gezorgd dat er terug meer bomen zijn!
+chanel.level2.1.button=Yes!
+
+
+chanel.level3.2.text=Ga nu terug naar het leerplatform maar eerst een weetje! Wist je dat er vooral bomen worden gekapt voor soja (voor veevoer), palmolie, mijnbouw en papier?
+
+chanel.level3.3.text=Ga nu terug naar het leerplatform en beantwoord de vraag.
+
+chanel.levelExtra1.1.text=Gebruik nu al je kennis om deze uitdaging aan te gaan! In deze oefening moet je zowel "en", "of", "geen" combineren.
+chanel.levelExtra1.1.button=Ik probeer het!
+
+chanel.levelExtra1.2.text=Voor het eerste level moet je een boom planten als de agent niet dichtbij vuur is EN als de agent op een grasblok staat OF als de agent op een blok myceleen staat.
+
+chanel.levelExtra2.1.text=Goed gedaan! Het laatste level is het moeilijkste! Ga de uitdaging aan!
+
+chanel.levelExtra2.2.text=Voor het tweede level moet je een boom planten als de agent niet dichtbij vuur is EN als de agent op een grasblok staat OF Plant een boom als de agent niet dichtbij vuur is EN als de agent op een blok myceleen staat EN er water is naast de agent
+
+chanel.levelExtra2.text=De bomen zijn allemaal gepland, de jungle kan nu terug groeien. Het zal tientallen jaren duren voor de jungle zich terug herstelt, maar het is een goede stap in de juiste richting!
+
+message.allLevelsComplete=Je hebt alle levels gedaan!
